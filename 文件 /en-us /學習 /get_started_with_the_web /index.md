@@ -1,3 +1,4 @@
+![fuck off](https://user-images.githubusercontent.com/64273507/158076313-00f6b2e1-437c-49e3-92f1-514fbad104e4.jpg)
 ---
 title: Getting started with the Web
 slug: Learn/Getting_started_with_the_web
